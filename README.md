@@ -5,7 +5,7 @@ I’m a full stack developer with a growing interest in AI. I love turning ideas
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/afolasade-bello-yamah-6a3795202/) or [Email](mailto:jesufikayo28@email.com)  
 ⚡ Fun fact: I have a sociology background but somehow ended up loving JavaScript more than social theory  
 
-
+---
 ### 🚀 Projects
 - UBloomsy — AI-powered dream planner with moodboards and action steps (coming soon) 
 - [UBudgetly](https://github.com/fikkybell/UBudgetly) — Simple budgeting app to track income and expenses  
