@@ -9,8 +9,6 @@ I’m a full stack developer with a growing interest in AI. I love turning ideas
 ### 🚀 Projects
 - UBloomsy — AI-powered dream planner with moodboards and action steps (coming soon) 
 - [UBudgetly](https://github.com/fikkybell/UBudgetly) — Simple budgeting app to track income and expenses  
-- [GiveHub](https://github.com/fikkybell/givehub) — Volunteer listing platform similar to VolunteerMatch
-- [Currency converter](https://github.com/fikkybell/currency-converter) — A converter that lets users convert between currencies using real-time exchange rates. Includes conversion history tracking.
 <!-- Add more as needed -->
 
 ---
