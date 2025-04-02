@@ -1,5 +1,8 @@
 ## Hi, I’m Sade 👋  
 I’m a full stack developer with a growing interest in AI. I love turning ideas into useful products and building with tools like TypeScript, React, Vue, Tailwind CSS, Node.js, Express, and MySQL.
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/afolasade-bello-yamah-6a3795202/) or [Email](mailto:jesufikayo28@email.com)  
+⚡ Fun fact: I have a sociology background but somehow ended up loving JavaScript more than social theory  
+
 
 ---
 
@@ -22,9 +25,7 @@ I’m a full stack developer with a growing interest in AI. I love turning ideas
 
 ---
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/afolasade-bello-yamah-6a3795202/) or [Email](mailto:jesufikayo28@email.com)  
----
-⚡ Fun fact: I have a sociology background but somehow ended up loving JavaScript more than social theory  
+
 ---
 ### 📊 GitHub Stats
 
