@@ -4,9 +4,10 @@ I’m a full stack developer with a growing interest in AI. I love turning ideas
 ---
 
 ### 🚀 Projects
-- [UBloomsy](https://github.com/your-username/ubloomsy) — AI-powered dream planner with moodboards and action steps  
-- [uBudgetly](https://github.com/your-username/ubudgetly) — Simple budgeting app to track income and expenses  
-- [GiveHub](https://github.com/your-username/givehub) — Volunteer listing platform similar to VolunteerMatch  
+- UBloomsy — AI-powered dream planner with moodboards and action steps (coming soon) 
+- [UBudgetly](https://github.com/fikkybell/UBudgetly) — Simple budgeting app to track income and expenses  
+- [GiveHub](https://github.com/fikkybell/givehub) — Volunteer listing platform similar to VolunteerMatch
+- [Currency converter](https://github.com/fikkybell/currency-converter) — A converter that lets users convert between currencies using real-time exchange rates. Includes conversion history tracking.
 <!-- Add more as needed -->
 
 ---
@@ -21,6 +22,10 @@ I’m a full stack developer with a growing interest in AI. I love turning ideas
 
 ---
 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/afolasade-bello-yamah-6a3795202/) or [Email](mailto:jesufikayo28@email.com)  
+---
+⚡ Fun fact: I have a sociology background but somehow ended up loving JavaScript more than social theory  
+---
 ### 📊 GitHub Stats
 
 ![Fikkybell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikkybell&show_icons=true&theme=radical)
