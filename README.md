@@ -23,7 +23,6 @@ I’m a full stack developer with a growing interest in AI. I love turning ideas
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
----
 
 
 ---
