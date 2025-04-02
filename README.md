@@ -29,8 +29,6 @@ I’m a full stack developer with a growing interest in AI. I love turning ideas
 ---
 ### 📊 GitHub Stats
 
-![Fikkybell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikkybell&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fikkybell&layout=compact&theme=radical)
 
 
